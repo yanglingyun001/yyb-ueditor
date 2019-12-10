@@ -8,7 +8,7 @@ config.json可以放到classpath下，要做小修改
 "fileManagerListPath": "/ueditor/jsp/upload/file/"
 修改为
 "fileManagerListPath": "ueditor/jsp/upload/file/"
-其它类似地方，做相同修改
+其它类似地方，做相同修改，访问前缀最好也改一下
 
 
 上传类配置
